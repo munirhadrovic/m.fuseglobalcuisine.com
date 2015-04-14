@@ -116,7 +116,7 @@
 		</div>
 		<div data-role="footer" data-theme="<?php echo $theme ?>" data-position="fixed">
 		    
-		    <h1 style="color:white;">Powered by <a href="http://mobilegrows.com/">MobileGrows </a>|<a href="http://fuseglobalcuisine.com/" rel="external"> Desktop Site</a></h1>
+		    <h1 style="color:white;">Powered by <a href="http://mobilegrows.com/" rel="external">MobileGrows </a>|<a href="http://fuseglobalcuisine.com/" rel="external"> Desktop Site</a></h1>
 
 		</div>
 		<!-- page 1 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
